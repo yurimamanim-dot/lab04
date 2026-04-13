@@ -10,7 +10,7 @@ import androidx.compose.runtime.Composable
 fun MovieTopBarComponent() {
     CenterAlignedTopAppBar(
         title = {
-            Text(text = "MovieCounter")
+            Text(text = "MovieCounter App")
         }
     )
 }
